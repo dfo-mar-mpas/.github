@@ -18,6 +18,10 @@ We employ advanced, non-invasive technologies, including:
 
 In collaboration with the **Ocean Tracking Network**, we use **acoustic telemetry** to track animal movements within and between **Marine Protected Areas (MPAs)**. Additionally, we develop **reproducible and interactive tools** for reporting on the status and effectiveness of these conservation sites.
 
+<div align="center"'>
+    <img src='inst/MCRG.png' alt='Marine Conservation Research Group Tools'>
+</div>
+
 ## Understanding the Physical Environment
 
 To understand the physical environment, we use:
@@ -26,9 +30,17 @@ To understand the physical environment, we use:
 - **Transport models** to study connectivity processes.
 - **Species distribution models**, integrating physical parameters to view biodiversity through a habitat-based lens.
 
+<div align="center"'>
+    <img src='inst/MCRG_telemetry.png' alt='Acoustic telemetry'>
+</div>
+
 ## Climate Change and Conservation
 
 Our research also addresses the impacts of **climate change** on MPAs, providing recommendations for monitoring and adapting to these changes.
+
+<div align="center"'>
+    <img src='inst/MCRG_vulnerability.png' alt='Climate Change Vulnerability'>
+</div>
 
 ## Our Goal
 
@@ -39,3 +51,7 @@ Our overarching goal is to:
 - Monitor ecological changes
 
 This ensures the protection and sustainable management of our marine environments.
+
+<div align="center"'>
+    <img src='inst/Biota_mosaic.png' alt='Biodiversity on the Scotian Shelf'>
+</div>
