@@ -1,6 +1,6 @@
 # Marine Conservation Research Group
 
-<div style='float: left; margin: 0 20px 20px 0;'>
+<div style='float: center; margin: 0 20px 20px 0;'>
     <img src='inst/StAnnsBank_benthic.png' alt='Marine Conservation Research Group' width='300'>
 </div>
 
