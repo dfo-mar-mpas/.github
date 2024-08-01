@@ -1,5 +1,9 @@
 # Marine Conservation Research Group
 
+<div style='float: left; margin: 0 20px 20px 0;'>
+    <img src='inst/StAnnsBank_benthic.png' alt='Marine Conservation Research Group' width='300'>
+</div>
+
 **The Marine Conservation Research Group**, part of Fisheries and Oceans Canada, is based at the **Bedford Institute of Oceanography**. Our mission is to support Canada's Marine Conservation Targets by providing critical data, new insights, and expert guidance. We focus on:
 
 1. **Establishing a regional network of conservation areas** in the Scotian Shelf-Bay of Fundy Bioregion.
