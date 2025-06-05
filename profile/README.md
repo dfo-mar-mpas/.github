@@ -8,6 +8,9 @@
 
 1. **Establishing a regional network of conservation areas** in the Scotian Shelf-Bay of Fundy Bioregion.
 2. **Conducting extensive, long-term biodiversity monitoring** in these areas.
+3. **Shedding light beneath the waves through scientific data and illustration** helping people care for the ocean by revealing its important and unique marine ecosystems.
+  
+“_No one will protect what they don't care about; and no one will care about what they have never experienced._” - Sir David Attenborough
 
 ## Our Approach
 
