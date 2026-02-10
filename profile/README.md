@@ -19,7 +19,16 @@ We employ advanced, non-invasive technologies, including:
 - **Benthic imaging systems**
 - **Environmental DNA (eDNA)**
 
-In collaboration with the **Ocean Tracking Network**, we use **acoustic telemetry** to track animal movements among **Marine Protected Areas (MPAs)** and **Other Effective Conservation Measures (OECMs)** in the [**Maritimes Conservation Network**](https://www.dfo-mpo.gc.ca/oceans/networks-reseaux/scotian-shelf-plateau-neo-ecossais-bay-baie-fundy/sites-eng.html). Additionally, we develop **reproducible and interactive tools** for reporting on the status and effectiveness of these conservation sites.
+In collaboration with the **Ocean Tracking Network**, we use **acoustic telemetry** to track animal movements among **Marine Protected Areas (MPAs)** and **Other Effective Conservation Measures (OECMs)** in the [**Maritimes Conservation Network**](https://www.dfo-mpo.gc.ca/oceans/networks-reseaux/scotian-shelf-plateau-neo-ecossais-bay-baie-fundy/sites-eng.html). 
+
+- [**St. Anns Bank MPA**](https://obis.org/dataset/735d8b98-5b8b-43eb-96f4-8bcbdfd97201)
+- [**The Gully MPA**](https://members.oceantrack.org/project?ccode=GULMPA)
+- [**Musquash Estuary MPA**](https://members.oceantrack.org/project?ccode=MUSQMPA)
+- [**Fundian Channel-Browns Bank AOI**](https://members.oceantrack.org/project?ccode=FUN)
+- [**Eastern Shore Islands AOI**](https://members.oceantrack.org/project?ccode=ESIAOI)
+- [**Kluscap IPCA Study Area**](https://members.oceantrack.org/project?ccode=V2LKIPCA) - in collaboration with the [Unama'ki Institute of Natural Resources](https://www.uinr.ca/)
+
+Additionally, we develop **reproducible and interactive tools** for reporting on the status and effectiveness of these conservation sites.
 
 <div align="center"'>
     <img src='inst/MCRG.png' alt='Marine Conservation Research Group Tools'>
