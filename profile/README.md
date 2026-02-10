@@ -19,7 +19,7 @@ We employ advanced, non-invasive technologies, including:
 - **Benthic imaging systems**
 - **Environmental DNA (eDNA)**
 
-In collaboration with the **Ocean Tracking Network**, we use **acoustic telemetry** to track animal movements within and between **Marine Protected Areas (MPAs)**. Additionally, we develop **reproducible and interactive tools** for reporting on the status and effectiveness of these conservation sites.
+In collaboration with the **Ocean Tracking Network**, we use **acoustic telemetry** to track animal movements among **Marine Protected Areas (MPAs)** and **Other Effective Conservation Measures (OECMS)** in the [**Maritimes Conservation Network**](https://www.dfo-mpo.gc.ca/oceans/networks-reseaux/scotian-shelf-plateau-neo-ecossais-bay-baie-fundy/sites-eng.html). Additionally, we develop **reproducible and interactive tools** for reporting on the status and effectiveness of these conservation sites.
 
 <div align="center"'>
     <img src='inst/MCRG.png' alt='Marine Conservation Research Group Tools'>
