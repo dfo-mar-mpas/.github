@@ -4,7 +4,7 @@
     <img src='inst/StAnnsBank_benthic.png' alt='Marine Conservation Research Group'>
 </div>
 
-**The Marine Conservation Research Group**, part of Fisheries and Oceans Canada, is based at the **Bedford Institute of Oceanography**. Our mission is to support Canada's Marine Conservation Targets by providing critical data, new insights, and expert guidance. We focus on:
+**The Marine Conservation Research Group**, part of [Fisheries and Oceans Canada](https://www.dfo-mpo.gc.ca/index-eng.html), is based at the [**Bedford Institute of Oceanography**](https://www.bio.gc.ca/index-en.php). Our mission is to support Canada's Marine Conservation Targets by providing critical data, new insights, and expert guidance. We focus on:
 
 1. **Establishing a regional network of conservation areas** in the Scotian Shelf-Bay of Fundy Bioregion.
 2. **Conducting extensive, long-term biodiversity monitoring** in these areas.
@@ -29,6 +29,11 @@ In collaboration with the **Ocean Tracking Network**, we use **acoustic telemetr
 - [**Kluscap IPCA Study Area**](https://members.oceantrack.org/project?ccode=V2LKIPCA) - in collaboration with the [Unama'ki Institute of Natural Resources](https://www.uinr.ca/)
 
 Additionally, we develop **reproducible and interactive tools** for reporting on the status and effectiveness of these conservation sites.
+
+<div align="center"'>
+    <img src='inst/flowerplot_ex.png' alt='Reproducible reporting flower plot'>
+</div>
+
 
 <div align="center"'>
     <img src='inst/MCRG.png' alt='Marine Conservation Research Group Tools'>
