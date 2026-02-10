@@ -30,8 +30,8 @@ In collaboration with the **Ocean Tracking Network**, we use **acoustic telemetr
 
 Additionally, we develop **reproducible and interactive tools** for reporting on the status and effectiveness of these conservation sites.
 
-<div align="center"'>
-    <img src='inst/flowerplot_ex.png' alt='Reproducible reporting flower plot'>
+<div align="center">
+    <img src="inst/flowerplot_ex.png" alt="Reproducible reporting flower plot" width="25%">
 </div>
 
 
